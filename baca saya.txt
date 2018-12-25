@@ -1,0 +1,10 @@
+link awal
+
+http://localhost/tugas_uas/
+
+nama database ci_crud
+nama file database ci_crud.sql
+
+nama	:ari ramdani
+nim	:12170828
+kelas	:12.3c.39
